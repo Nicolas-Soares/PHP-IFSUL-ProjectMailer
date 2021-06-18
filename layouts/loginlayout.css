@@ -1,0 +1,38 @@
+body {
+    font: normal 15pt Arial;
+    background: cornflowerblue;
+}
+
+header {
+    color: cornsilk;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+section {
+    background: cornsilk;
+    border-radius: 10px;
+    border: 5px solid rgba(52, 40, 218, 0.438);
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.418);
+    text-align: center;
+}
+
+legend {
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+input {
+    font-size: 15px;
+}
+
+footer {
+    color: cornsilk;
+    text-align: center;
+    font-style: italic;
+}
